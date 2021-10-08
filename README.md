@@ -4,3 +4,4 @@
 - pandas
 - opencv
 - numpy
+- pytorch
