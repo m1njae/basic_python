@@ -4,4 +4,4 @@
 - pandas
 - opencv
 - numpy
-- pytorch https://wikidocs.net/book/2788
+- pytorch / *https://wikidocs.net/book/2788*
